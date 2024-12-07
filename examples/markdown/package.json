@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-search-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxi dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lunr": "^2.3.9",
+    "markdown-it": "^14.1.0",
+    "nuxt": "^3.14.1592"
+  }
+}
